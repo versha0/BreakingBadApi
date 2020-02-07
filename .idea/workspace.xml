@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73a4af4f-c354-4482-8ddf-8a97d71b4cff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BreakingBad/src/app/allCharacter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BreakingBad" />
+  </component>
+  <component name="ProjectId" id="1XTG9ZvFctPxFU4dNkfX7ZBvEdD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/BreakingBad/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a4af4f-c354-4482-8ddf-8a97d71b4cff" name="Default Changelist" comment="" />
+      <created>1581062519693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581062519693</updated>
+      <workItem from="1581062524387" duration="16447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581075815098">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="453" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.923@70.27.1850.923" timestamp="1581075815098" />
+    <state x="403" y="404" width="350" height="298" key="org.angular.cli.generate" timestamp="1581063214435">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="403" y="404" width="350" height="298" key="org.angular.cli.generate/70.27.1850.923@70.27.1850.923" timestamp="1581063214435" />
+  </component>
+</project>
